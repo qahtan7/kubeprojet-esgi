@@ -162,7 +162,7 @@ kubectl get cm -n icgroup
 ConfigMap  
 
 ```bash
-kubectl get cm -n icgroup  
+kubectl get pvc -n icgroup  
 ```
 ![pvc](./images/pvc.png) 
 Volume
