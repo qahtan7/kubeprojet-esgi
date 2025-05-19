@@ -2,7 +2,7 @@
  
 ## Objectif
 
-Ce projet a pour objectifs de  conteneuriser, configurer et déployer les applications du IC Group dans un cluster Kubernetes tout en assurant la persistance des données des différentes ressources.  
+Ce projet a pour objectifs de  conteneuriser, configurer et dépl oyer les applications du IC Group dans un cluster Kubernetestout en assurant la persistance des données des différentes ressources.  
 - Odoo 13.0 : ERP open source  
 - pgAdmin 4 : Interface Web d'administration pour PostgreSQL  
 - Application web développer avec Flask permettant l'accès aux deux services ci-dessus.  
@@ -183,12 +183,10 @@ Création de la base de donnée ODOO
 
 
 PGAdmin Web interface OK 
-
 ```bash
 http://192.177.10.140:30091 
 ```
 ![pgAdmin login](./images/pgadmin_gui.png) 
-PGAdmin Web interface OK
 
 BDD Connection
 ![pgAdmin connected](./images/pgadmin_connect.png)
