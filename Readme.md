@@ -1,4 +1,4 @@
-# Projet Kubernetes - Déploiement des application de IC Group
+# Apps IC Group
  
 ## Objectif
 
